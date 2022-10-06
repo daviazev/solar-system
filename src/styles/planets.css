@@ -1,0 +1,67 @@
+.Mercúrio {
+  width: 2.8vw;
+}
+
+.Vênus {
+  width: 5vw;
+}
+
+.Terra {
+  width: 5.5vw;
+}
+
+.Marte {
+  width: 4.2vw;
+}
+
+.Júpiter {
+  width: 20vw;
+}
+
+.Saturno {
+  width: 18vw;
+}
+
+.Urano {
+  width: 10vw;
+}
+
+.Netuno {
+  width: 8vw;
+}
+
+@media ( max-width : 600px ) {
+
+  .Mercúrio {
+    width: 15vw;
+  }
+
+  .Vênus {
+    width: 40vw;
+  }
+
+  .Terra {
+    width: 45vw;
+  }
+
+  .Marte {
+    width: 30vw;
+  }
+
+  .Júpiter {
+    width: 80vw;
+  }
+
+  .Saturno {
+    width: 65vw;
+  }
+
+  .Urano {
+    width: 50vw;
+  }
+
+  .Netuno {
+    width: 40vw;
+  }
+
+}

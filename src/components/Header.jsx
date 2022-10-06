@@ -1,13 +1,17 @@
 import React from 'react';
 
-class Header extends React.Component {
-  render() {
-    return (
-      <header>
-        <h1>Sistema Solar</h1>
-      </header>
-    );
-  }
+import solarSistemLogo from '../images/solarSystemLogo.svg';
+
+function Header() {
+  return (
+    <header>
+      <img
+        className="solar-system-logo"
+        src={ solarSistemLogo }
+        alt="solar system logo"
+      />
+    </header>
+  );
 }
 
 export default Header;
