@@ -1,4 +1,6 @@
-![gif do projetotrybetunes](ezgif.com-gif-maker.gif)
+# Solar System
+
+![gif do projetotrybetunes](solar-system.gif)
 
 ## Sobre
 
