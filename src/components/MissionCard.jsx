@@ -1,10 +1,15 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
+import '../styles/MissionCard.css';
+
 function MissionCard({ name, year, country, destination }) {
   return (
     <div className="missions-card" data-testid="mission-card">
-      <p data-testid="mission-name">{name}</p>
+      <div className="mission-name">
+        <p data-testid="mission-name">{name}</p>
+      </div>
+      <hr />
       <p data-testid="mission-year">{year}</p>
       <p data-testid="mission-country">{country}</p>
       <p data-testid="mission-destination">{destination}</p>
