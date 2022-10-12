@@ -1,3 +1,31 @@
+.mission-name {
+  padding: 8px;
+  width: auto;
+}
+
+hr {
+  width: 100%;
+}
+
+.icon {
+  width: 30px;
+}
+
+.main-content {
+  /* background-color: blue; */
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+
+.mission-infos {
+  align-items: center;
+  /* background-color: green; */
+  display: flex;
+  gap: 24px;
+  margin: 4px 0;
+}
+
 @media ( max-width : 600px ) {
 
   .mission-name {
