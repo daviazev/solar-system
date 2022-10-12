@@ -1,4 +1,4 @@
-const USA = 'Estados Unidos';
+const USA = 'EUA';
 const URSS = 'URSS';
 
 const Missions = [
@@ -12,7 +12,7 @@ const Missions = [
     name: 'Voyager 1',
     year: '1977',
     country: USA,
-    destination: 'Espaço interestelar',
+    destination: 'MI',
   },
   {
     name: 'Mars Pathfinder',
@@ -23,19 +23,19 @@ const Missions = [
   {
     name: 'Estação Internacional Espacial',
     year: '1998',
-    country: 'Estados Unidos e Rússia',
+    country: 'EUA e Rússia',
     destination: 'Órbita terrestre',
   },
   {
     name: 'Kepler',
     year: '2009',
     country: USA,
-    destination: 'Espaço interestelar',
+    destination: 'MI',
   },
   {
     name: 'Cassini-Huygens',
     year: '2009',
-    country: 'Estados Unidos e União Europeia',
+    country: 'EUA e UE',
     destination: 'Saturno',
   },
   {
@@ -119,7 +119,7 @@ const Missions = [
   {
     name: 'Cassini/Huygens',
     year: '1997',
-    country: 'Estados Unidos e Europa',
+    country: 'EUA e Europa',
     destination: 'Saturno',
   },
 ];
