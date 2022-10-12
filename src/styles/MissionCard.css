@@ -1,0 +1,54 @@
+.mission-name {
+  padding: 8px;
+}
+
+hr {
+  width: 100%;
+}
+
+.icon {
+  width: 30px;
+}
+
+.main-content {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+
+.mission-infos {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  margin: 4px 0;
+}
+
+@media ( max-width : 720px ) {
+
+  .mission-name {
+    padding: 8px;
+  }
+
+  hr {
+    width: 100%;
+  }
+
+  .icon {
+    width: 10%;
+  }
+
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 8px;
+  }
+
+  .mission-infos {
+    align-items: center;
+    display: flex;
+    gap: 24px;
+    margin: 4px 0;
+  }
+
+}
