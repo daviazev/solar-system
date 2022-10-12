@@ -1,8 +1,30 @@
-.mission-name {
-  padding: 8px;
-  width: auto;
-}
+@media ( max-width : 600px ) {
 
-hr {
-  width: 100%;
+  .mission-name {
+    padding: 8px;
+    width: auto;
+  }
+
+  hr {
+    width: 100%;
+  }
+
+  .icon {
+    width: 10%;
+  }
+
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 8px;
+  }
+
+  .mission-infos {
+    align-items: center;
+    display: flex;
+    gap: 24px;
+    margin: 4px 0;
+  }
+
 }
