@@ -68,7 +68,7 @@ header {
 }
 
 .missions-container {
-  background-color: hsla(0, 0%, 100%, 0.15);
+  background-color: #ffffff26;
   border-radius: 16px;
   display: flex;
   flex-wrap: wrap;
