@@ -1,6 +1,7 @@
 # Solar System 
 
-![gif do projetotrybetunes](solar-system.gif)
+![gif do projeto solar-system](solar-system.gif)
+[Deploy](https://daviazev-solar-system.netlify.app/)
 
 ## Sobre
 
